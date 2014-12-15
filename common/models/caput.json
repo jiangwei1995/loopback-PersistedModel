@@ -1,0 +1,16 @@
+{
+  "name": "caput",
+  "base": "PersistedModel",
+  "properties": {
+    "size": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
